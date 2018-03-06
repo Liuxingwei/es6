@@ -1,4 +1,8 @@
 # 第0章 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文是作者在学习 ECMAScript 6 的过程中，记录的心得体会。
+
+作为学习笔记，忠实地记录了作者本人对 ECMAScript 6 的理解，有些内容甚至是作者的主观猜测。
+
+公开此文档，一方面是希望自己所得也能对别人有帮助，另一方面也是想得到高手的指点，还请高手们在看到问题的时候，不吝赐教为盼！
 
